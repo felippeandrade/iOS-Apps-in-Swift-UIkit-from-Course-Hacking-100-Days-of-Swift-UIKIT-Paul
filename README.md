@@ -1,1 +1,1 @@
-Apps em Swift iOS UIkit do Curso 100 Days Hacking With Swift - Paul
+Apps em Swift UIkit sendo desenvolvidos a partir do Livro e Site 100 Days Hacking With Swift - Paul
